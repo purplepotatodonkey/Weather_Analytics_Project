@@ -1,5 +1,7 @@
 # Weather_Analytics_Project
 
+Actual code is in master branch.
+
 The program runs as a module, so do python "-m projects.pj01.weather" to run the program.
 
 The program also requires certain arguments, so this should return "Usage: python -m projects.pj01.weather [FILE] [COLUMN] [OPERATION]"
