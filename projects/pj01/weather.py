@@ -1,7 +1,3 @@
-"""Project 2 on weather."""
-__author__ = "730412348"
-
-
 import sys
 from csv import DictReader
 from typing import Dict, List
